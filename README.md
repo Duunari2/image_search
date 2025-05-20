@@ -10,3 +10,5 @@ to add: make instant redirect to anothersearchengine.com searchengine search ins
 
 to know: anothersearchengine.com does not have searchengine server because server costs. when get donations i can setup search engine to ready for use.
 
+
+requirements: you need to add from php.ini to: file_uploads = on
