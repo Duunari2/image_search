@@ -12,3 +12,13 @@ to know: anothersearchengine.com does not have searchengine server because serve
 
 
 requirements: you need to add from php.ini to: file_uploads = on
+
+Yours sincerely,
+
+http://anothersearchengine.dy.fi/ by - TMS teh sysop of anothersearchengine brew..
+
+https://datat.freehostia.com/hotlinked_search/search.html
+
+The dot com domain is not anymore in my handle..
+
+Using the dot dy dot fi domain be shadow..
